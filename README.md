@@ -12,7 +12,7 @@ Feedback and feature requests are more than welcome!
 
 ## Screenshots
 
-![MiniWinLoss screenshot](https://media.forgecdn.net/attachments/1449/995/screenshot-png.png)
+![MiniWinLoss screenshot](https://raw.githubusercontent.com/Verubato/mini-win-loss/main/assets/Screenshot.png)
 
 ## Download
 
