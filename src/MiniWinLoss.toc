@@ -1,4 +1,4 @@
-## Interface: 120100, 120007, 120001, 120000, 110207
+## Interface: 120100
 ## Title: MiniWinLoss
 ## Notes: Shows your win-loss for rated pvp on the conquest frame.
 ## Author: Verz
