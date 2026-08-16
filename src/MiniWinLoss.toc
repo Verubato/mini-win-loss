@@ -1,6 +1,7 @@
 ## Interface: 120100
 ## Title: MiniWinLoss
 ## Notes: Shows your win-loss for rated pvp on the conquest frame.
+## Category: Mini
 ## Author: Verz
 ## Version: 1.1.4
 ## IconTexture: Interface\AddOns\MiniWinLoss\Icon.blp
