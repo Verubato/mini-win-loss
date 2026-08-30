@@ -1,6 +1,6 @@
 # MiniWinLoss - bot reference
 
-Version 1.1.4. Interface version: 120100 (retail only). No saved
+Version 1.1.6. Interface version: 120100 (retail only). No saved
 variables.
 
 ## What it does
@@ -22,8 +22,13 @@ and Rated Battlegrounds.
 
 ## Settings
 
-None. No options, no slash commands, no saved variables. Install and open
-the PvP window's Rated tab.
+Open with a slash command or Options -> AddOns -> MiniWinLoss. The panel
+describes what the addon does; its subtitle says there is nothing to
+configure. No saved variables.
+
+## Slash commands
+
+/miniwinloss, /mwl - both open the settings panel.
 
 ## Troubleshooting
 
