@@ -44,6 +44,7 @@ smoke.Run("MiniWinLoss", {
 		fw.eq(context.Addon.Framework.CustomStyling, true, "custom styling on")
 		fw.eq(context.Addon.Framework.CustomStylingOverrides.Button, false, "stock buttons")
 		fw.truthy(HasText("Shows your win-loss and percentages for rated pvp on the conquest frame."), "the subtitle under the panel title")
+		fw.truthy(HasText("This addon has no settings, it simply works out of the box."), "the second subtitle line saying there is nothing to configure")
 		-- The panel has no controls, so it carries no section rule either.
 		fw.falsy(HasDivider("SETTINGS"), "no settings section rule under the header")
 	end,
