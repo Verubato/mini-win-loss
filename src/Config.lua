@@ -15,11 +15,10 @@ mini:WaitForAddonLoad(function()
 		return
 	end
 
-	-- No saved settings exist yet, so the panel is the title, the description, and the rule.
+	-- A section rule with no settings under it reads as a page that failed to load.
 	mini:PanelHeader({
 		Parent = panel,
 		Description = "Shows your win-loss and percentages for rated pvp on the conquest frame.",
-		Divider = true,
 	})
 
 	mini:RegisterSlashCommand(category, panel, {
