@@ -1,6 +1,6 @@
 # MiniWinLoss - bot reference
 
-Version 1.1.7. Interface versions: 120100, 16001 (retail and Classic Beta 1.60). No saved
+Version 1.1.8. Interface versions: 120105, 120100, 16001 (retail and Classic Beta 1.60). No saved
 variables.
 
 ## What it does
